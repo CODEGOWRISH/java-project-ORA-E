@@ -7,10 +7,6 @@ import java.sql.Connection;
 import java.sql.SQLException;
 import oracle.jdbc.pool.OracleDataSource;
 
-/**
- * @author dbgsm0
- *
- */
 public class DbConn {
 
 	OracleDataSource ds;
